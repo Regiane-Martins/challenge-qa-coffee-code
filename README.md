@@ -8,7 +8,7 @@ Antes de começar, certifique-se de ter os seguintes itens instalados:
 * Java (necessário para o Allure)
 
 ##### Instalação
-1. Clone este repositório: 
+1. Clone este repositório: 'https://github.com/Regiane-Martins/challenge-qa-coffee-code.git'
 2. Instale as dependências do projeto: 'npm install'
 3. Instale o Allure Commandline: 'npm install -g allure-commandline --save-dev'
 
