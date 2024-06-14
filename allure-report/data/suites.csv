@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jun 14 13:12:26 BRT 2024","Fri Jun 14 13:12:41 BRT 2024","15812","Testes de Carrinho e Checkout","","","","","Verificar se o processo de checkout pode ser iniciado a partir do carrinho",""
+"passed","Fri Jun 14 13:12:21 BRT 2024","Fri Jun 14 13:12:22 BRT 2024","959","Verificação das funcionalidades do site do desafio","","","","","Produto deve ser corretamente adicionado ao carrinho de compra",""
+"passed","Fri Jun 14 13:12:22 BRT 2024","Fri Jun 14 13:12:26 BRT 2024","3950","Testes de Carrinho e Checkout","","","","","Produto deve está listado corretamente no carrinho de compras",""
+"passed","Fri Jun 14 13:12:16 BRT 2024","Fri Jun 14 13:12:18 BRT 2024","1954","Verificação das funcionalidades do site do desafio","","","","","Deve carregar a página inicial corretamente",""
+"passed","Fri Jun 14 13:12:18 BRT 2024","Fri Jun 14 13:12:21 BRT 2024","2741","Verificação das funcionalidades do site do desafio","","","","","Deve direcionar para o respectivo produto ao selecionar um produto",""

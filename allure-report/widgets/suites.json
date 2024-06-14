@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"9ec7794bf1adbb3f5b1288ca4696e6fb","name":"Verificação das funcionalidades do site do desafio","statistic":{"failed":0,"broken":0,"skipped":0,"passed":3,"unknown":0,"total":3}},{"uid":"415d398c7b48349203490d604b538f1f","name":"Testes de Carrinho e Checkout","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}
